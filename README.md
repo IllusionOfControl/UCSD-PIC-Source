@@ -15,7 +15,7 @@ Firmware for PIC microcontroller.
 
 ## Application
 
-The application collects information about the system and sends.
+The application collects information about the system and sends to the device.
 
 ## Proof of work
 
